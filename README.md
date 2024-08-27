@@ -21,3 +21,7 @@ use the below link to configure **HA VPN** in google cloud. It is an advance and
     In which we are basically connect 2 vpc having resoures with HA VPN..
 
     https://www.cloudskillsboost.google/focuses/6270?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=35648090
+
+## Link for Building a High-throughput VPN in GCP
+
+    https://www.cloudskillsboost.google/focuses/641?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=35648090
